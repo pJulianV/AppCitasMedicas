@@ -1,0 +1,8 @@
+Las siguientes actividades se desarrollaron en este Sprint:
+
+1. Diligenciar Formato del Sprint 1
+2. Se establecieron roles
+3. Se redactó el Mundo del Proyecto
+4. Se redactaron el objetivo general y específicos
+5. Se establecieron los requerimientos funcionales y no funcionales
+6. Se cargó la planificación y evidencias del software Jira
