@@ -1,9 +1,7 @@
 # citasmedicas
 Se documenta el desarrollo de aplicacion web para hospital (base de datos de pacientes) y solicitud de citas medicas, ademas se registra el progreso que se tuvo o se esta teniendo en el ciclo 3.
 
-Sprint 1: Planeacion del proyecto, objetivos, requrimientos e evidencias, disponibles en Sprint_1 > Formato_Sprint1yActa
-
-Sprint 1: Empezar a usar GitLab y desarrollar "Taller_GitLab" 
+Las tareas asignadas a cada integrante del equipo estan evidenciadas en Jira, junto con los 4 Sprints documentados
 
 ## Getting started
 
